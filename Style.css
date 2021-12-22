@@ -3,9 +3,8 @@ body {
 }
 h1{
     text-align:center ;
-    animation-name:Text;
-    animation-duration: 5s;
-    text-decoration:color:red;
+    color: black;
+    
 }
 iframe{
     border-radius:5%;
@@ -13,7 +12,4 @@ iframe{
     display:block ;
     margin:auto ;
 
-}
-@keyframes Text{
-    from{;}
 }
